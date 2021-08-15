@@ -7,7 +7,7 @@ image = ""
 menu = ""
 share = false
 slug = "test"
-title= "Simple Things"
+title= "Simple Things -- ^_^"
 +++
 
 ^-^
