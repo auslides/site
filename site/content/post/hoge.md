@@ -12,7 +12,7 @@ title= "Simple Things"
 
 ^-^
 
-Somewhere along the way  
+Somewhere along the way (A song we like)
 I got caught up in the race  
 I kept spinning and turning  
 Lost myself, my hope, my faith  
